@@ -1,2 +1,3 @@
-# ooni-data-analysis
-Collection of Jupyter notebooks for OONI data analysis
+# Notebooks
+
+This repo contains Jupyter notebooks used for OONI data analysis. 
